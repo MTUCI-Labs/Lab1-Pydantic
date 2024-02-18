@@ -1,2 +1,3 @@
 pydantic
 seaborn
+matplotlib
